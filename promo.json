@@ -10,11 +10,11 @@
     },
   
     {
-      "name": "Dino Hunting",
-      "packageName": "com.dino.family.simulator.hunt",
-      "targetAsin": "B0GHNNSRLC",
-      "storeUrl": "https://www.amazon.com/Hunting-Family-Simulator-Dinosaur-world/dp/B0GHNNSRLC",
-      "rewardedVideoURL": "https://files.catbox.moe/yps6j9.mp4"
+      "name": "Car Racing",
+      "packageName": "com.dts.car.driving.simulator",
+      "targetAsin": "B0GFNKG9XL",
+      "storeUrl": "https://www.amazon.com/OL-Games-Driving-Simulator-Game/dp/B0GFNKG9XL",
+      "rewardedVideoURL": "https://files.catbox.moe/57k2jn.mp4"
     },
     {
       "name": "AirPlane Simulator Fyr",
@@ -24,11 +24,11 @@
       "rewardedVideoURL": "https://files.catbox.moe/mxgsjt.mp4"
     },
      {
-      "name": "Worm Clash",
-      "packageName": "com.worm.snake.clah.mm",
-      "targetAsin": "B0GYPZJ4R2",
-      "storeUrl": "https://www.amazon.com/Clash-Battle-Arena-Survive-Ultimate/dp/B0GYPZJ4R2",
-      "rewardedVideoURL": "https://files.catbox.moe/zms12c.mp4"
+      "name": "Car Racing",
+      "packageName": "com.dts.car.driving.simulator",
+      "targetAsin": "B0GFNKG9XL",
+      "storeUrl": "https://www.amazon.com/OL-Games-Driving-Simulator-Game/dp/B0GFNKG9XL",
+      "rewardedVideoURL": "https://files.catbox.moe/57k2jn.mp4"
     },
     {
       "name": "AirPlane Simulator",
@@ -38,11 +38,11 @@
       "rewardedVideoURL": "https://files.catbox.moe/8odv11.mp4"
     },
   {
-      "name": "Dino Hunting",
-      "packageName": "com.dino.family.simulator.hunt",
-      "targetAsin": "B0GHNNSRLC",
-      "storeUrl": "https://www.amazon.com/Hunting-Family-Simulator-Dinosaur-world/dp/B0GHNNSRLC",
-      "rewardedVideoURL": "https://files.catbox.moe/zapmbp.mp4"
+      "name": "Car Racing",
+      "packageName": "com.dts.car.driving.simulator",
+      "targetAsin": "B0GFNKG9XL",
+      "storeUrl": "https://www.amazon.com/OL-Games-Driving-Simulator-Game/dp/B0GFNKG9XL",
+      "rewardedVideoURL": "https://files.catbox.moe/57k2jn.mp4"
     }
   ]
 }
