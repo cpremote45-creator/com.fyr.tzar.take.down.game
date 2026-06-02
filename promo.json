@@ -2,20 +2,13 @@
   "apps": [
  
     {
-      "name": "AirPlane Simulator Fyr",
-      "packageName": "com.rog.plane.simulator.game",
-      "targetAsin": "B0CRRL1QKN",
-      "storeUrl": "https://www.amazon.com/City-Pilot-Airplane-Flight-Simulator/dp/B0CRRL1QKN",
-      "rewardedVideoURL": "https://files.catbox.moe/3750me.mp4"
-    },
-  
-    {
       "name": "Car Racing",
       "packageName": "com.dts.car.driving.simulator",
       "targetAsin": "B0GFNKG9XL",
       "storeUrl": "https://www.amazon.com/OL-Games-Driving-Simulator-Game/dp/B0GFNKG9XL",
       "rewardedVideoURL": "https://files.catbox.moe/57k2jn.mp4"
     },
+  
     {
       "name": "AirPlane Simulator Fyr",
       "packageName": "com.rog.plane.simulator.game",
@@ -23,12 +16,19 @@
       "storeUrl": "https://www.amazon.com/City-Pilot-Airplane-Flight-Simulator/dp/B0CRRL1QKN",
       "rewardedVideoURL": "https://files.catbox.moe/mxgsjt.mp4"
     },
-     {
+    {
       "name": "Car Racing",
       "packageName": "com.dts.car.driving.simulator",
       "targetAsin": "B0GFNKG9XL",
       "storeUrl": "https://www.amazon.com/OL-Games-Driving-Simulator-Game/dp/B0GFNKG9XL",
       "rewardedVideoURL": "https://files.catbox.moe/57k2jn.mp4"
+    },
+     {
+      "name": "Bike Wheelie",
+      "packageName": "com.bike.wheeling.racing.master.dts",
+      "targetAsin": "B0GMJNQHKY",
+      "storeUrl": "https://www.amazon.com/Bike-Wheelie-Stunt-Rider-Extreme/dp/B0GMJNQHKY",
+      "rewardedVideoURL": "https://files.catbox.moe/k2a5hw.mp4"
     },
     {
       "name": "AirPlane Simulator",
