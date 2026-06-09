@@ -2,11 +2,11 @@
   "apps": [
  
     {
-      "name": "Car Racing",
-      "packageName": "com.dts.car.driving.simulator",
-      "targetAsin": "B0GFNKG9XL",
-      "storeUrl": "https://www.amazon.com/OL-Games-Driving-Simulator-Game/dp/B0GFNKG9XL",
-      "rewardedVideoURL": "https://files.catbox.moe/57k2jn.mp4"
+      "name": "Bakery Game",
+      "packageName": "com.bakery.fyr.game",
+      "targetAsin": "B0H3Q24MTG",
+      "storeUrl": "https://www.amazon.com/Bakery-Cafe-Panic-Restaurant-Supermarket/dp/B0H3Q24MTG",
+      "rewardedVideoURL": "https://files.catbox.moe/qyy4ta.mp4"
     },
   
     {
