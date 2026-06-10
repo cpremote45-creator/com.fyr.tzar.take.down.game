@@ -43,6 +43,49 @@
       "targetAsin": "B0GFNKG9XL",
       "storeUrl": "https://www.amazon.com/OL-Games-Driving-Simulator-Game/dp/B0GFNKG9XL",
       "rewardedVideoURL": "https://files.catbox.moe/dj3iv5.mp4"
+    },
+    {
+      "name": "Bakery Game",
+      "packageName": "com.bakery.fyr.game",
+      "targetAsin": "B0H3Q24MTG",
+      "storeUrl": "https://www.amazon.com/Bakery-Cafe-Panic-Restaurant-Supermarket/dp/B0H3Q24MTG",
+      "rewardedVideoURL": "https://files.catbox.moe/qyy4ta.mp4"
+    },
+  
+    {
+      "name": "AirPlane Simulator Fyr",
+      "packageName": "com.rog.plane.simulator.game",
+      "targetAsin": "B0CRRL1QKN",
+      "storeUrl": "https://www.amazon.com/City-Pilot-Airplane-Flight-Simulator/dp/B0CRRL1QKN",
+      "rewardedVideoURL": "https://files.catbox.moe/mxgsjt.mp4"
+    },
+    {
+      "name": "Car Racing",
+      "packageName": "com.dts.car.driving.simulator",
+      "targetAsin": "B0GFNKG9XL",
+      "storeUrl": "https://www.amazon.com/OL-Games-Driving-Simulator-Game/dp/B0GFNKG9XL",
+      "rewardedVideoURL": "https://files.catbox.moe/57k2jn.mp4"
+    },
+     {
+      "name": "Bike Wheelie",
+      "packageName": "com.bike.wheeling.racing.master.dts",
+      "targetAsin": "B0GMJNQHKY",
+      "storeUrl": "https://www.amazon.com/Bike-Wheelie-Stunt-Rider-Extreme/dp/B0GMJNQHKY",
+      "rewardedVideoURL": "https://files.catbox.moe/k2a5hw.mp4"
+    },
+    {
+      "name": "AirPlane Simulator",
+      "packageName": "com.kick.flight.pilot.airplane.games",
+      "targetAsin": "B0BFQPLZS1",
+      "storeUrl": "https://www.amazon.com/Airplane-Simulator-Landing-Adventure-Games/dp/B0BFQPLZS1",
+      "rewardedVideoURL": "https://files.catbox.moe/8odv11.mp4"
+    },
+  {
+      "name": "Car Racing",
+      "packageName": "com.dts.car.driving.simulator",
+      "targetAsin": "B0GFNKG9XL",
+      "storeUrl": "https://www.amazon.com/OL-Games-Driving-Simulator-Game/dp/B0GFNKG9XL",
+      "rewardedVideoURL": "https://files.catbox.moe/dj3iv5.mp4"
     }
   ]
 }
