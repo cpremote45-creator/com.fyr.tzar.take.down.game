@@ -2,11 +2,11 @@
   "apps": [
  
     {
-      "name": "Pet Doctor Game",
-      "packageName": "com.pet.doc.simulator.fyr",
-      "targetAsin": "B0GK6KHC8W",
-      "storeUrl": "https://www.amazon.com/FYR-Games-Pet-Doctor-Hospital/dp/B0GK6KHC8W",
-      "rewardedVideoURL": "https://files.catbox.moe/5ybag0.mp4"
+      "name": "Midnight Car Racing",
+      "packageName": "com.car.racing.midnight.dts",
+      "targetAsin": "B0GX34M692",
+      "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
+      "rewardedVideoURL": "https://files.catbox.moe/57k2jn.mp4"
     },
   
     {
