@@ -2,11 +2,19 @@
   "apps": [
  
     {
-      "name": "Car Driving Simulator OL",
-      "packageName": "com.dts.car.driving.simulator",
-      "targetAsin": "B0GFNKG9XL",
-      "storeUrl": "https://www.amazon.com/OL-Games-Driving-Simulator-Game/dp/B0GFNKG9XL",
-      "rewardedVideoURL": "https://files.catbox.moe/6bmh8p.mp4"
+      "name": "Paint Hide Zombie Inj",
+      "packageName": "com.zombie.slayer.rog.remove.ads",
+      "targetAsin": "B0GQ3264KW",
+      "storeUrl": "https://www.amazon.com/dp/B0GQ3264KW",
+      "rewardedVideoURL": "https://files.catbox.moe/57k2jn.mp4"
+    },
+  
+    {
+      "name": "Paint Hide Zombie Inj",
+      "packageName": "com.zombie.slayer.rog.remove.ads",
+      "targetAsin": "B0GQ3264KW",
+      "storeUrl": "https://www.amazon.com/dp/B0GQ3264KW",
+      "rewardedVideoURL": "https://files.catbox.moe/b8exnv.mp4"
     },
   
     {
